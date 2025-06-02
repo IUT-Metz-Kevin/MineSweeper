@@ -33,6 +33,8 @@ La fonction minesweeper doit renvoyer la chaîne de caractère suivante :
 
 L'objectif est de retourner une chaîne de caractère en indiquant pour chaque case combien il y a de mines autour.
 
+NB: Dans les tests le saut de ligne est représenté par le caractère `\n`.
+
 ## Grille de notation (20 points)
 
 ### (10 points) Démonstration du cycle TDD
